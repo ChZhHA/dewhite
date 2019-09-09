@@ -1,6 +1,6 @@
 {
   "name": "dewhite",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "clear white background in picture",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ChZhHA/dewhite.git"
   },
-  "author": "",
+  "author": "chzh314@hotmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ChZhHA/dewhite/issues"
